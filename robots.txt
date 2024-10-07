@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://idensomid.github.io/sitemap.html.gz
+Sitemap: https://idensomid.github.io/app/sitemap.html.gz
+Sitemap: https://idensomid.github.io/assets/sitemap.html.gz
+Sitemap: https://idensomid.github.io/css/sitemap.html.gz
+Sitemap: https://idensomid.github.io/data/sitemap.html.gz
+Sitemap: https://idensomid.github.io/includes/sitemap.html.gz
+Sitemap: https://idensomid.github.io/item/sitemap.html.gz
+Sitemap: https://idensomid.github.io/src/sitemap.html.gz
